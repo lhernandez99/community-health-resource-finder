@@ -1,0 +1,254 @@
+[
+  {
+    "id": "cl1",
+    "name": "Community Clinic – East End",
+    "category": "Clinic",
+    "services": ["Primary Care", "Vaccinations", "Women’s Health"],
+    "address": "123 Navigation Blvd, Houston, TX",
+    "city": "Houston",
+    "zip": "77003",
+    "phone": "713-555-0101",
+    "website": "",
+    "location": { "lat": 29.7485, "lng": -95.3423 },
+    "hours": [
+      {"open":"08:00","close":"17:00"},
+      {"open":"08:00","close":"17:00"},
+      {"open":"08:00","close":"17:00"},
+      {"open":"10:00","close":"18:00"},
+      {"open":"08:00","close":"17:00"},
+      null,
+      null
+    ]
+  },
+  {
+    "id": "mh1",
+    "name": "Sunrise Mental Health Center",
+    "category": "Mental Health",
+    "services": ["Counseling", "Crisis Support"],
+    "address": "900 Wellness Ave, Houston, TX",
+    "city": "Houston",
+    "zip": "77004",
+    "phone": "713-555-0102",
+    "website": "",
+    "location": { "lat": 29.7289, "lng": -95.3657 },
+    "hours": [
+      {"open":"09:00","close":"19:00"},
+      {"open":"09:00","close":"19:00"},
+      {"open":"09:00","close":"19:00"},
+      {"open":"09:00","close":"19:00"},
+      {"open":"09:00","close":"17:00"},
+      null,
+      null
+    ]
+  },
+  {
+    "id": "ph1",
+    "name": "GreenCross Pharmacy",
+    "category": "Pharmacy",
+    "services": ["Prescriptions", "Flu Shots"],
+    "address": "200 Market St, Houston, TX",
+    "city": "Houston",
+    "zip": "77002",
+    "phone": "713-555-0103",
+    "website": "",
+    "location": { "lat": 29.7589, "lng": -95.3695 },
+    "hours": [
+      {"open":"08:00","close":"21:00"},
+      {"open":"08:00","close":"21:00"},
+      {"open":"08:00","close":"21:00"},
+      {"open":"08:00","close":"21:00"},
+      {"open":"08:00","close":"21:00"},
+      {"open":"09:00","close":"18:00"},
+      {"open":"10:00","close":"16:00"}
+    ]
+  },
+  {
+    "id": "dh1",
+    "name": "Smile Bright Dental",
+    "category": "Dental",
+    "services": ["Cleanings", "X-Rays", "Fillings"],
+    "address": "456 Westheimer Rd, Houston, TX",
+    "city": "Houston",
+    "zip": "77006",
+    "phone": "713-555-0104",
+    "website": "",
+    "location": { "lat": 29.7449, "lng": -95.3915 },
+    "hours": [
+      {"open":"08:00","close":"17:00"},
+      {"open":"08:00","close":"17:00"},
+      {"open":"08:00","close":"17:00"},
+      {"open":"10:00","close":"18:00"},
+      {"open":"08:00","close":"17:00"},
+      null,
+      null
+    ]
+  },
+  {
+    "id": "fb1",
+    "name": "Neighborhood Food Bank",
+    "category": "Community",
+    "services": ["Food Pantry"],
+    "address": "1011 Polk St, Houston, TX",
+    "city": "Houston",
+    "zip": "77002",
+    "phone": "713-555-0105",
+    "website": "",
+    "location": { "lat": 29.7541, "lng": -95.3657 },
+    "hours": [
+      {"open":"09:00","close":"15:00"},
+      {"open":"09:00","close":"15:00"},
+      {"open":"09:00","close":"15:00"},
+      null,
+      {"open":"09:00","close":"15:00"},
+      null,
+      null
+    ]
+  },
+  {
+    "id": "hc1",
+    "name": "City Hospital – Midtown",
+    "category": "Hospital",
+    "services": ["Emergency", "Primary Care"],
+    "address": "1 Care Way, Houston, TX",
+    "city": "Houston",
+    "zip": "77030",
+    "phone": "713-555-0106",
+    "website": "",
+    "location": { "lat": 29.7079, "lng": -95.4010 },
+    "hours": [
+      {"open":"00:00","close":"23:59"},
+      {"open":"00:00","close":"23:59"},
+      {"open":"00:00","close":"23:59"},
+      {"open":"00:00","close":"23:59"},
+      {"open":"00:00","close":"23:59"},
+      {"open":"00:00","close":"23:59"},
+      {"open":"00:00","close":"23:59"}
+    ]
+  },
+  {
+    "id": "cc1",
+    "name": "Family Resource Center",
+    "category": "Community",
+    "services": ["Parenting Classes", "Housing Support"],
+    "address": "750 Community Ln, Houston, TX",
+    "city": "Houston",
+    "zip": "77009",
+    "phone": "713-555-0107",
+    "website": "",
+    "location": { "lat": 29.7928, "lng": -95.3681 },
+    "hours": [
+      {"open":"09:00","close":"18:00"},
+      {"open":"09:00","close":"18:00"},
+      {"open":"09:00","close":"18:00"},
+      {"open":"09:00","close":"18:00"},
+      {"open":"09:00","close":"16:00"},
+      null,
+      null
+    ]
+  },
+  {
+    "id": "pr1",
+    "name": "Hope Prenatal Clinic",
+    "category": "Clinic",
+    "services": ["Prenatal Care", "Women’s Health"],
+    "address": "333 Sunrise Blvd, Houston, TX",
+    "city": "Houston",
+    "zip": "77021",
+    "phone": "713-555-0108",
+    "website": "",
+    "location": { "lat": 29.6985, "lng": -95.3526 },
+    "hours": [
+      {"open":"08:30","close":"16:30"},
+      {"open":"08:30","close":"16:30"},
+      {"open":"08:30","close":"16:30"},
+      {"open":"08:30","close":"16:30"},
+      {"open":"08:30","close":"16:30"},
+      null,
+      null
+    ]
+  },
+  {
+    "id": "mh2",
+    "name": "West Side Counseling",
+    "category": "Mental Health",
+    "services": ["Counseling"],
+    "address": "808 Calm St, Houston, TX",
+    "city": "Houston",
+    "zip": "77024",
+    "phone": "713-555-0109",
+    "website": "",
+    "location": { "lat": 29.7701, "lng": -95.5179 },
+    "hours": [
+      {"open":"10:00","close":"19:00"},
+      {"open":"10:00","close":"19:00"},
+      {"open":"10:00","close":"19:00"},
+      {"open":"10:00","close":"19:00"},
+      {"open":"10:00","close":"17:00"},
+      null,
+      null
+    ]
+  },
+  {
+    "id": "im1",
+    "name": "Immunization Station",
+    "category": "Clinic",
+    "services": ["Vaccinations", "Travel Health"],
+    "address": "42 Health Pkwy, Houston, TX",
+    "city": "Houston",
+    "zip": "77056",
+    "phone": "713-555-0110",
+    "website": "",
+    "location": { "lat": 29.7416, "lng": -95.4612 },
+    "hours": [
+      {"open":"08:00","close":"17:00"},
+      {"open":"08:00","close":"17:00"},
+      {"open":"08:00","close":"17:00"},
+      {"open":"08:00","close":"17:00"},
+      {"open":"08:00","close":"15:00"},
+      null,
+      null
+    ]
+  },
+  {
+    "id": "dh2",
+    "name": "Bayou Dental Care",
+    "category": "Dental",
+    "services": ["Cleanings", "Emergency Dentistry"],
+    "address": "17 Bayou Bend, Houston, TX",
+    "city": "Houston",
+    "zip": "77007",
+    "phone": "713-555-0111",
+    "website": "",
+    "location": { "lat": 29.7704, "lng": -95.4201 },
+    "hours": [
+      {"open":"08:00","close":"17:00"},
+      {"open":"08:00","close":"17:00"},
+      {"open":"08:00","close":"17:00"},
+      {"open":"10:00","close":"18:00"},
+      {"open":"08:00","close":"17:00"},
+      null,
+      null
+    ]
+  },
+  {
+    "id": "ph2",
+    "name": "24hr Community Pharmacy",
+    "category": "Pharmacy",
+    "services": ["Prescriptions"],
+    "address": "900 Main St, Houston, TX",
+    "city": "Houston",
+    "zip": "77002",
+    "phone": "713-555-0112",
+    "website": "",
+    "location": { "lat": 29.7536, "lng": -95.3657 },
+    "hours": [
+      {"open":"00:00","close":"23:59"},
+      {"open":"00:00","close":"23:59"},
+      {"open":"00:00","close":"23:59"},
+      {"open":"00:00","close":"23:59"},
+      {"open":"00:00","close":"23:59"},
+      {"open":"00:00","close":"23:59"},
+      {"open":"00:00","close":"23:59"}
+    ]
+  }
+]
