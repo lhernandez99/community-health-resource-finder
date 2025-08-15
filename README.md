@@ -35,6 +35,10 @@ A responsive web app that helps users discover *local health resources* on an in
 4. **Visit the printed local URL**
     (default: http://localhost:5173)
 
+## Screenshots
+   <img width="1085" height="901" alt="image" src="https://github.com/user-attachments/assets/e232bb79-0eec-4780-aea6-ce9acef18a33" />
+
+
 ## Planned Enhancements
 These features are not yet implemented but are part of the project roadmap:
 
